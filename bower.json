@@ -1,0 +1,31 @@
+{
+  "name": "snap-animation-queue",
+  "version": "0.1.0",
+  "homepage": "https://github.com/mystroken/snapsvg-animation-queue",
+  "authors": ["Emmanuel KWENE https://github.com/mystroken"],
+  "description": "A timeline animation just like timelineMax (GSAP) for Snap.svg.",
+  "main": "dist/snap-animation-queue.min.js",
+  "keywords": [
+    "website",
+    "javascript",
+    "js",
+    "animation",
+    "svg",
+    "snap",
+    "snap.svg",
+    "timeline",
+    "queue"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "examples"
+  ],
+  "dependencies": {
+    "Snap.svg": ">=0.5.1"
+  }
+}

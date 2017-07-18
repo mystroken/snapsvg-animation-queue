@@ -1,7 +1,7 @@
 {
   "name": "snap-animation-queue",
-  "version": "1.0.0",
-  "description": "A timeline animation just like timelineMax (GSAP) for Snap.svg",
+  "version": "0.1.0",
+  "description": "A timeline animation just like timelineMax (GSAP) for Snap.svg.",
   "main": "snap-animation-queue.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,11 +11,15 @@
     "url": "git+ssh://git@github.com:mystroken/snapsvg-animation-queue.git"
   },
   "keywords": [
-    "javescript",
+    "website",
+    "js",
+    "javascript",
     "animation",
     "svg",
+    "snap",
     "snap.svg",
-    "timelinr"
+    "timeline",
+    "queue"
   ],
   "authors": [
     "Emmanuel KWENE https://github.com/mystroken"
