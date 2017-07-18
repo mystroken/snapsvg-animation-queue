@@ -1,5 +1,7 @@
-/**
- * Created by ken on 14/11/2016.
+/*!
+ * Snap Animation Queue
+ * v0.1.0
+ * (c) Nov 14, 2016. Mystro Ken <mystroken@gmail.com>
  */
 /**
  *
