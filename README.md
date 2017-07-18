@@ -1,6 +1,6 @@
 # Snapsvg Animation Queue
 A lightweight timeline animation javascript system just like [TimelineMax (GreenSock)](https://greensock.com/timelinemax) for Snap.svg.  
-[Join me on Twitter!](htts://twitter.com/mystroken/)
+[Join me on Twitter!](https://twitter.com/mystroken/)
 
 #### Install
  - [Bower](https://bower.io) - ```bower install snap-animation-queue```
